@@ -18,6 +18,8 @@ In addition, if you use `Postman`, you can execute it on the browser.
 However, there is no guarantee because the operation confirmation is performed with `Rest Client`.
 The following describes how to use a simple HTTP file.
 
+## How to use
+
 ### Post request
 
 Enter any character string in "Text" of `post.http`.

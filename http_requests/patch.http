@@ -1,0 +1,7 @@
+# Replace the uuid with the id of createdTodo.
+PATCH http://localhost:3000/todos/uuid HTTP/1.1
+content-type: application/json
+
+{
+    "text": "Complete within one month."
+}

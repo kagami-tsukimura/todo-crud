@@ -1,0 +1,2 @@
+# Replace the uuid with the id of createdTodo.
+DELETE  http://localhost:3000/todos/uuid HTTP/1.1
